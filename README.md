@@ -1,2 +1,2 @@
-# SMSEP
+# SaMP
 Sound and Music Programming
