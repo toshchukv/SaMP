@@ -39,14 +39,17 @@
             "id": "4fe9812855b8c48c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Notes/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Sound Programming/Canvas.canvas",
+                "viewState": {
+                  "x": -75,
+                  "y": -291.912109375,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-layout-dashboard",
+              "title": "Canvas"
             }
           }
         ],
@@ -219,13 +222,18 @@
   },
   "active": "4fe9812855b8c48c",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Untitled.base",
-    "Notes/Untitled.md",
-    "Codes/Noise, Filters, Envelopes, Dynamic Line Generators & Randomness.md",
-    "Notes/Subtractive Synthesis.md",
-    "Codes",
-    "Notes",
-    "README.md"
+    "AI/Canvas.canvas",
+    "Final Project/Canvas.canvas",
+    "Sound Programming/Canvas.canvas",
+    "Final Project",
+    "AI",
+    "Base.base",
+    "Sound Programming/Notes/Untitled.md",
+    "Sound Programming",
+    "README.md",
+    "Sound Programming/Codes/Noise, Filters, Envelopes, Dynamic Line Generators & Randomness.md",
+    "Sound Programming/Notes/Subtractive Synthesis.md",
+    "Sound Programming/Codes",
+    "Sound Programming/Notes"
   ]
 }

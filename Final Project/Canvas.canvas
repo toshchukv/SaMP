@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"3d69001e9c21a6f3","x":-80,"y":-220,"width":145,"height":60,"type":"text","text":"Presentation"},
+		{"id":"5a5cd48a7370b806","x":-66,"y":-140,"width":118,"height":60,"type":"text","text":"Due: 9.12.26"}
+	],
+	"edges":[]
+}
