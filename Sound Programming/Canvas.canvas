@@ -2,9 +2,10 @@
 	"nodes":[
 		{"id":"0e7064ef6becb0f0","type":"text","text":"Sound Programming","x":-200,"y":-440,"width":250,"height":60},
 		{"id":"0dc92999eb9b6291","type":"text","text":"Due: 9.12.26","x":-145,"y":-360,"width":140,"height":50},
-		{"id":"38cf940a1bef3865","x":-340,"y":-280,"width":250,"height":260,"type":"text","text":"- zip file\n- open license (for public portfolio)\n- Detailed README (usage manual, crit evaluatiion)\n- AI colab logbook\n- 20 minute video (viva voce)"},
-		{"id":"98ab637867bb57ae","x":-60,"y":-280,"width":240,"height":80,"type":"text","text":"Set an aim with clear idea, if ai used be more specific"},
-		{"id":"3651f824f0918df1","x":-65,"y":-180,"width":250,"height":122,"type":"text","text":"Keep AI on the loop. Making it come back and check when it isnt sure what to next"}
+		{"id":"38cf940a1bef3865","type":"text","text":"- zip file\n- open license (for public portfolio)\n- Detailed README (usage manual, crit evaluatiion)\n- AI colab logbook\n- 20 minute video (viva voce)","x":-340,"y":-280,"width":250,"height":260},
+		{"id":"98ab637867bb57ae","type":"text","text":"Set an aim with clear idea, if ai used be more specific","x":-60,"y":-280,"width":240,"height":80},
+		{"id":"3651f824f0918df1","type":"text","text":"Keep AI on the loop. Making it come back and check when it isnt sure what to next","x":-65,"y":-180,"width":250,"height":122},
+		{"id":"e14660556dedc54e","x":-65,"y":-40,"width":250,"height":110,"type":"text","text":"If AI made a mistake, put it in AI file and talk about it (lots of marks/very good for doc)"}
 	],
 	"edges":[
 		{"id":"213c8c6d5ec4702a","fromNode":"0dc92999eb9b6291","fromSide":"top","toNode":"0e7064ef6becb0f0","toSide":"bottom"},

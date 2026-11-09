@@ -11,14 +11,17 @@
             "id": "1d4f5984f3a7449f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Clippings/Microsoft Copilot.md",
-                "mode": "source",
-                "source": false
+                "file": "Sound Programming/Canvas.canvas",
+                "viewState": {
+                  "x": -59.62109375,
+                  "y": -149.078125,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Microsoft Copilot"
+              "icon": "lucide-layout-dashboard",
+              "title": "Canvas"
             }
           }
         ]
@@ -114,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Microsoft Copilot.md",
+                "file": "Sound Programming/Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,8 +208,8 @@
   },
   "active": "1d4f5984f3a7449f",
   "lastOpenFiles": [
-    "file:/Users/up2261637/Downloads/SOMUP assessment handbook 2026-27.md",
     "Clippings/Microsoft Copilot.md",
+    "file:/Users/up2261637/Downloads/SOMUP assessment handbook 2026-27.md",
     "Clippings/TouchDesigner Overview.md",
     "Clippings",
     "2026-11-09.md",
